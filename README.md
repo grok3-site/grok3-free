@@ -1,4 +1,4 @@
-# Grok 官网入口：一分钟学会在国内用上 Grok3~ 【2025/03/14 更新】        
+# Grok 官网入口：一分钟学会在国内用上 Grok3~ 【2025/03/15 更新】        
 
 全面体验 [**Grok3 中文版**](https://chat.yixiaai.com)，**马斯克 xAI 出品**，**无需翻墙**，**支持 Grok3 及中文版功能**   
 
@@ -25,18 +25,17 @@
 1. **一下AI ([chat.yixiaai.com](https://chat.yixiaai.com/))**   
    **Grok3 中文版**，提供支持 Grok-3 Reasoning、GPT-o1、o3及DeepSeek R1 的全面服务，包含 AI绘画、AI插件、AI助手、AI PPT功能，使用简便。
 
-2. **AI智慧岛 ([chat.lify.vip](https://www.yixiaai.com/))**  
+2. **蓝鲸AI ([chat.lanjing.ai](https://chat.lanjing.ai/))**  
+   **Grok3 镜像网站**，支持 Grok 3、GPT-4o、o1、o3 及 DeepSeek R1、Claude 3.7 sonnet 最先进的模型，无限使用~
+
+3. **AI智慧岛 ([chat.lify.vip](https://www.yixiaai.com/))**  
    **Grok3 镜像网站**，多功能平台，支持 Grok-3 Reasoning、GPT-o1、o3及DeepSeek R1、Claude 3.7，适合各类用户需求。
 
-3. **AI智绘 ([guide1.lanjing.ai](https://guide1.lanjing.ai/))**  
+4. **AI智绘 ([guide1.lanjing.ai](https://guide1.lanjing.ai/))**  
    针对创意者，提供 AI 绘画和创作支持，支持 Grok-3、GPT-4、4o。
 
-4. **小鱼GPT ([ai.lansejingyu.com](https://ai.lansejingyu.com/))**  
+5. **小鱼GPT ([ai.lansejingyu.com](https://ai.lansejingyu.com/))**  
    简单易用的 ChatGPT-4 镜像，快速访问，不需注册。
-
-5. **蓝鲸AI ([lanjing.ai](https://lanjing.ai/))**  
-   **免费服务**，支持 Grok-3、GPT-4、4o，提供多元功能。
-
 
 ---
 
